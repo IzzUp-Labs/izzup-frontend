@@ -1,4 +1,5 @@
 version: 2.1
+
 jobs:
   build-and-test:
     working_directory: ~/project
@@ -21,6 +22,7 @@ jobs:
       - run:
           name: Run test for the application
           command: npm run test:unit
+
 workflows:
   build-and-test:
     jobs:
