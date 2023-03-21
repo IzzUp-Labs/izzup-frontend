@@ -1,4 +1,8 @@
-# gig
+<p align="center">
+<a href="https://dl.circleci.com/status-badge/redirect/gh/Gig-Client/gig-frontend/tree/main" target="blank"><img src="https://dl.circleci.com/status-badge/img/gh/Gig-Client/gig-api/tree/main.svg?style=svg" width="100" alt="Circle CI" /></a>
+</p>
+
+# Gig Web Front
 
 This template should help get you started developing with Vue 3 in Vite.
 
